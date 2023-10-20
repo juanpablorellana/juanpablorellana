@@ -1,1 +1,1 @@
-`¡Buen día comité!`
+**`¡Buen día comité!`**
